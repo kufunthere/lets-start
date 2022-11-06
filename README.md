@@ -1,3 +1,5 @@
+# 20221105
+
 ## 查看状态
 
 没有副作用
@@ -47,6 +49,8 @@ git push -u origin master
 
 ## 以后仅需要 git push
 git push
+
+# 强制覆盖远端 git push -f
 ```
 
 ## 如何clone？
@@ -55,3 +59,6 @@ git push
 ```shell
 git clone https://github.com/LearnByStep/lets-start.git
 ```
+
+
+# 20221106
